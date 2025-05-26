@@ -1,4 +1,4 @@
-# Ex.No:13 THREAD
+# Ex.No:13 Develop an application to perform thread Synchronization in android studio
 ## DATE: 19/04/2025
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
