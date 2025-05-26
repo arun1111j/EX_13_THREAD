@@ -1,4 +1,5 @@
 # Ex.No:13 THREAD
+## DATE: 19/04/2025
 ## AIM:
 To develop a thread synchronization concept with the help of clicking the button in Android Studio.
 
